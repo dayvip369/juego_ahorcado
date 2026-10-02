@@ -1,0 +1,43 @@
+const PALABRAS = [
+  "ELEFANTE",
+  "DINOSAURIO",
+  "MARIPOSA",
+  "COCODRILO",
+  "PINGÜINO",
+  "JIRAFA",
+
+  "COHETE",
+  "PLANETA",
+  "ASTRONAUTA",
+  "ESTRELLA",
+  "VOLCAN",
+  "TESORO",
+
+  "CASTILLO",
+  "DRAGON",
+  "PIRATA",
+  "PRINCESA",
+  "SUPERHEROE",
+  "UNICORNIO",
+
+  "CHOCOLATE",
+  "HELADO",
+  "PIZZA",
+  "PALOMITAS",
+  "GALLETAS",
+  "SANDIA",
+
+  "BICICLETA",
+  "PATINETE",
+  "TREN",
+  "AVION",
+  "SUBMARINO",
+  "BARCO",
+
+  "ROBOT",
+  "MONSTRUO",
+  "MAGIA",
+  "AVENTURA",
+  "AMISTAD",
+  "FIESTA"
+];
